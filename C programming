@@ -13,3 +13,11 @@ Features of C Programming Language:
 • C is very much portable, which means programs written on a machine using C can be used on other machines as well without any modification.
 • A C program consists of a number of functions that are supported by C library. In fact, you can create your own function, which can then be added to the C library.
 ---------------------------------------------------------------------------------------
+Characteristics of C Language:
+C is a General Purpose Programming Language. This means C can be used to write a variety of applications. It is often referred to as a “system programming language.”
+• C is a middle level language, which means it combines the features of high level language with the functionality of an assembly language.
+• C is a structured programming language, which means as a programmer, you are required to divide a problem into a several different modules or functions.
+• C is renowned for its simplicity and is easy to use because of its structured approach. It has a vast collection of keywords, operators, built-in functions and data types which make it efficient and powerful.
+• C is portable, which means a C program runs in different environments. C compilers are available for all operating systems and hardware platforms. Additionally, you can easily write code on one system and port it to another.
+• C is popular not just because it can be used as a standalone programming language, but also as it can be used as an interface to other more visual languages.
+---------------------------------------------------------------------------------------
