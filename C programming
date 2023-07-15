@@ -3,4 +3,13 @@ Introduction
 C programming language was developed in 1972 by Dennis Ritchie at bell laboratories of AT&T (American Telephone & Telegraph), located in the U.S.A..
 • It was initially designed for programming in UNIX operating system.
 • Now the software tool as well as the C compiler is written in C. Major parts of popular operating systems like Windows, UNIX, Linux is still written in C.
-
+--------------------------------------------------------------------------------------
+Features of C Programming Language:
+• C is one of the most popular languages used today.
+• C is a robust programming with an impressive set of built-in functions and a variety of operators which you can use to write any complex program.
+• C programs are fast and efficient. This is because C uses a powerful set of data types and operators.
+• C combines the power and capability of assembly language with the user friendly features of a high-level language.
+• C is the most widely used older programming language. It continues to go strong while older programming languages such as BASIC and COBOL have been virtually forgotten.
+• C is very much portable, which means programs written on a machine using C can be used on other machines as well without any modification.
+• A C program consists of a number of functions that are supported by C library. In fact, you can create your own function, which can then be added to the C library.
+---------------------------------------------------------------------------------------
